@@ -2,7 +2,7 @@
 
 ## Background
 
-(WIP)
+https://qiita.com/Mine02C4/items/8c543b7f700cad82d77a
 
 ## Requirements
 
